@@ -24,7 +24,7 @@ FileNotFoundError: [Errno 2] No such file or directory: 'my_file.csv'
 
 ## Sample CSV File
 
-For this issue, I am using a simple CSV file named `my_file.csv` with the following structure:
+I am using a simple CSV file named `my_file.csv` with the following structure:
 
 ```
 Name,Age,Occupation
